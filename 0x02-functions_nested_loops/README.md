@@ -5,3 +5,4 @@ Functions_nested_loops-Tasks
 3. Write a function that checks for a lowercase character.
 4. Write a function that checks for an alphabetic character.
 5. Write a function that prints the sign of a number.
+6. Write a function that computes the absolute value of an integer.
